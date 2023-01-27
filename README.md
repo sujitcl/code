@@ -1,4 +1,6 @@
-# How to Run the ML Example Code
+# Code Examples used in the <i> Handbook of Machine Learning </i>
+
+#### How to Run the ML Example Code
 
 ![Book](book.jpg)
 
